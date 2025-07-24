@@ -1,16 +1,11 @@
 ---
 title: "Elements"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Your Meta Title Here"
+description: "Your Meta Description Here"
 draft: false
 ---
 
 {{< toc >}}
-
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
 
 # Heading 1
 
@@ -40,13 +35,13 @@ Strike through uses two tildes. ~~Scratch this.~~
 
 ### Button
 
-{{< button label="Button" link="/" style="solid" >}}
+{{< button label="Button Placeholder" link="/" style="solid" >}}
 
 <hr>
 
 ### Link
 
-[I'm an inline-style link](https://www.google.com)
+[Inline-style link placeholder](https://example.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
