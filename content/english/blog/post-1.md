@@ -2,7 +2,6 @@
 title: "Your Post Title Here"
 meta_title: "Your Meta Title Here"
 description: "Your Description Here"
-date: "YYYY-MM-DDTHH:MM:SSZ"
 image: "/path/to/your-image.png"
 categories: ["Category1", "Category2"]
 author: "Your Name Here"
