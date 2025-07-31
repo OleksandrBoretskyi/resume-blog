@@ -1,34 +1,23 @@
 ---
-title: "Your Post Title Here"
-meta_title: "Your Meta Title Here"
-description: "Your Description Here"
-image: "/path/to/your-image.png"
-categories: ["Category1", "Category2"]
-author: "Your Name Here"
-tags: ["tag1", "tag2", "tag3"]
-draft: true
+title: "Creating Bastion Host via Terraform"
+meta_title: ""
+description: "this is meta description"
+date: 2022-04-04T05:00:00Z
+image: "/images/image-placeholder.png"
+categories: ["Technology", "Data"]
+author: "Sam Wilson"
+tags: ["technology", "terraform"]
+draft: false
 ---
 
-Your introduction goes here. Provide a brief overview of the topic and what the reader can expect to learn.
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-## Project Goal
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-Describe the goal of your project or the purpose of the post. What problem are you solving or what value are you providing?
+## Creative Design
 
-> Add any key quotes or highlights here to emphasize important points.
+Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-## Key Components
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-- **Component 1**: Brief description.
-- **Component 2**: Brief description.
-- **Component 3**: Brief description.
-
-## Deployment
-
-Provide instructions or steps for deploying or implementing the solution. For example:
-
-```bash
-# Example commands
-your-command init
-your-command apply
-```
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
