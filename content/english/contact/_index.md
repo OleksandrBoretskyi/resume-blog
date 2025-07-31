@@ -1,6 +1,8 @@
 ---
 title: "Contact"
-meta_title: "Your Meta Title Here"
-description: "Your Meta Description Here"
+meta_title: "Contact"
+description: "Get in touch with me."
 draft: false
 ---
+
+Placeholder for your contact form or details.
