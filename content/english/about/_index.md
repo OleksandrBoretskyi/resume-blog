@@ -1,9 +1,9 @@
 ---
-title: "About Me"
-meta_title: "About"
-description: "Learn more about me."
-image: "/images/avatar.png"
+title: "About"
+meta_title: "About Page"
+image: ""
+description: "Learn more about this project."
 draft: false
 ---
 
-Placeholder for your bio.
+This is a placeholder about page. Replace this text with information about your project, team, or goals.
