@@ -1,9 +1,11 @@
 ---
 title: "Elements"
-meta_title: "Your Meta Title Here"
-description: "Your Meta Description Here"
-draft: false
+meta_title: "Elements"
+description: "Placeholder playground page."
+draft: true
 ---
+
+This page is a playground and is hidden in production (draft: true).
 
 {{< toc >}}
 

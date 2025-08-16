@@ -1,12 +1,12 @@
 ---
 enable: true
-title: "Your Call-to-Action Title Here"
-image: "/path/to/image.png"
-description: "Your Call-to-Action Description Here"
+title: "Open to Linux Admin / DevOps roles"
+image: "/images/call-to-action.png"
+description: "Available for short-term contracts and full-time roles focused on infrastructure and automation."
 button:
   enable: true
-  label: "Your Button Label Here"
-  link: "https://example.com"
+  label: "Get in touch"
+  link: "/contact/"
 
 # don't create a separate page
 build:
